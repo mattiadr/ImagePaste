@@ -13,4 +13,5 @@ Clone this repository in the `Data/Packages` directory.
 
 ## Requirements
 
-[Pillow](https://github.com/python-pillow/Pillow) is required for this script to work on windows and is already shipped with this repository.
+To run on linux you need to install `xclip`.
+To run on windows you need [Pillow](https://github.com/python-pillow/Pillow), which is already included in this repository.
